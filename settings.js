@@ -2,18 +2,18 @@
 
 const fs = require('fs')
 const chalk = require('chalk')
-global.owner = ['6281395861695']
-global.ownernomer = "6281395861695"
-global.premium = ['6281395861695']
+global.owner = ['62895809453322']
+global.ownernomer = "62895809453322"
+global.premium = ['62895809453322']
 global.packname = 'Sticker By'
-global.author = 'BOTCAHX'
+global.author = 'ᴹᴿ᭄ Smile×፝֟͜×'
 global.jumlha = '999'
 global.jumhal = '100000000000000'
 global.jumlah = '1000000000'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
-    success: '✅Done',
+    success: '✅Tuh Ngabb',
     admin: 'Fitur Khusus Admin Group!',
     botAdmin: 'Bot Harus Menjadi Admin Terlebih Dahulu!',
     premime: 'Fitur Khusus Premium Kalo Mau Daftar Ketik Sewa / Chat Owner',
@@ -29,16 +29,16 @@ global.mess = {
 }
 global.limitawal = {
     premium: "Infinity",
-    free: 100
+    free: 30
 }
-global.thumb = fs.readFileSync('./media/image/tio.jpg')
-global.faall = fs.readFileSync('./media/image/fake.jpg')
-global.mygit = 'https://github.com/BOTCAHX'
+global.thumb = fs.readFileSync('./media/image/lol.jpg')
+global.faall = fs.readFileSync('./media/image/lel.jpg')
+global.mygit = 'https://github.com/rrrifki'
 global.webmy = 'https://api.botcahx.biz.id'
-global.ghme = 'https://github.com/BOTCAHX'
-global.botname = 'BOTCAHX'
-global.omlen = '© TioXd'
-global.weem = 'BOTCAHX'
+global.ghme = 'https://github.com/rrrifki'
+global.botname = '°SMLbot-Mdོ'
+global.omlen = '© Child Xd'
+global.weem = 'ᴹᴿ᭄ Smile×፝֟͜×'
 let file = require.resolve(__filename)
 fs.watchFile(file, () => {
 	fs.unwatchFile(file)
